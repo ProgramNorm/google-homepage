@@ -9,3 +9,24 @@
 	display: inline;
 	margin: 5px;
 }
+
+img.logo {
+	display: block;
+	margin: 50px auto;
+	margin-bottom: 10px;
+	width: 50%;
+}
+
+input.search-bar {
+	display: block;
+	margin: 0 auto;
+	height: 35px;
+	width: 500px;
+	font-size: 14px;
+}
+
+.search-buttons {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
