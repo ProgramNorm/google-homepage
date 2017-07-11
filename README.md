@@ -1,0 +1,1 @@
+This project was done for the first HTML/CSS lesson on theodinproject.com. The assignment was the recreate the Google homepage without its functionality.
